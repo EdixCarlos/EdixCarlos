@@ -4,7 +4,7 @@
 </p> -->
 
 <p align="center">
-    <a href="https://github.com/itgoyo">
+    <a href="https://github.com/edixcarlos">
         <img alt="github"
             src="https://img.shields.io/github/stars/EdixCarlos?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@peru?v=2" align="right">
 </p>
 
 <h1 align="center">Hi 👋, I'm Edix</h1>

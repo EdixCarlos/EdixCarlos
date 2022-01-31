@@ -1,12 +1,12 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/marimber123/count.svg" />
+  <img src="https://profile-counter.glitch.me/EdixCarlos/count.svg" />
 </p> -->
 
 <p align="center">
     <a href="https://github.com/itgoyo">
         <img alt="github"
-            src="https://img.shields.io/github/stars/marimber123?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+            src="https://img.shields.io/github/stars/EdixCarlos?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
     <a href="https://www.youtube.com/channel/UCMzRuDsg5_MndnFgGUw9SAw">
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCMzRuDsg5_MndnFgGUw9SAw">
@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:marimber123"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
@@ -60,10 +60,10 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marimber123&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EdixCarlos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/marimber123/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/marimber123/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/EdixCarlos/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/EdixCarlos/github-stats-transparent/output/generated/languages.svg)
 
 <!-- 
 <details open>
@@ -220,7 +220,7 @@ Don't be a programmer, Be a problem solver.
 <!-- 公众号：Fullstacker -->
 
 - 📫 How to reach me:
-    - :dart: [Github@marimber123](https://github.com/marimber123)
+    - :dart: [Github@EdixCarlos](https://github.com/EdixCarlos)
     - :email: [edix.carlos@tecsup.edu.pe](mailto:itgoyo@gmail.com)
     - :tv: [Youtube@EdixDante](https://www.youtube.com/channel/UCMzRuDsg5_MndnFgGUw9SAw?view_as=subscriber)
     - :bird:[twitter@EdixDante](https://twitter.com/EdixDante)

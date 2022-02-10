@@ -17,7 +17,7 @@
 
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a> -->
 <p>
-  ![GAAA](https://komarev.com/ghpvc/?username=EdixCarlos)
+  
   <img src="https://weather-icon.journeyad.repl.co/@Cusco?v=2" align="right">
 </p>
 
@@ -60,7 +60,7 @@
  </p>
 
 
-
+![GAAA](https://komarev.com/ghpvc/?username=EdixCarlos)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EdixCarlos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/EdixCarlos/github-stats-transparent/output/generated/overview.svg)

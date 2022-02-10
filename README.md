@@ -21,7 +21,7 @@
 
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a> -->
 <p>
-  
+  [![https://count.getloli.com/get/@EdixCarlos?theme=gelbooru](https://count.getloli.com/get/@EdixCarlos?theme=gelbooru)](https://github.com/EdixCarlos/)
   <img src="https://weather-icon.journeyad.repl.co/@Cusco?v=2" align="right">
 </p>
 

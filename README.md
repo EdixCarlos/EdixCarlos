@@ -16,12 +16,14 @@
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCMzRuDsg5_MndnFgGUw9SAw">
     </a>
     
-     
+<!--      [![https://count.getloli.com/get/@EdixCarlos?theme=gelbooru](https://count.getloli.com/get/@EdixCarlos?theme=gelbooru)](https://github.com/EdixCarlos/) -->
 </p>
 
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a> -->
 <p>
-  [![https://count.getloli.com/get/@EdixCarlos?theme=gelbooru](https://count.getloli.com/get/@EdixCarlos?theme=gelbooru)](https://github.com/EdixCarlos/)
+  <a href="https://github.com/EdixCarlos/">
+       <img alt="Edix Carlos" src="https://count.getloli.com/get/@EdixCarlos?theme=gelbooru">
+    </a>
   <img src="https://weather-icon.journeyad.repl.co/@Cusco?v=2" align="right">
 </p>
 

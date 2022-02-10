@@ -8,6 +8,10 @@
         <img alt="github"
             src="https://img.shields.io/github/stars/EdixCarlos?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
+  <a href="https://github.com/edixcarlos">
+        <img alt="github"
+            src="https://komarev.com/ghpvc/?username=EdixCarlos" />
+    </a>
     <a href="https://www.youtube.com/channel/UCMzRuDsg5_MndnFgGUw9SAw">
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCMzRuDsg5_MndnFgGUw9SAw">
     </a>
@@ -60,7 +64,7 @@
  </p>
 
 
-![GAAA](https://komarev.com/ghpvc/?username=EdixCarlos)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EdixCarlos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/EdixCarlos/github-stats-transparent/output/generated/overview.svg)

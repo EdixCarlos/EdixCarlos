@@ -15,8 +15,9 @@
      
 </p>
 
+<!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a> -->
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:EdixCarlos"></a>
+  ![GAAA](https://komarev.com/ghpvc/?username=EdixCarlos)
   <img src="https://weather-icon.journeyad.repl.co/@Cusco?v=2" align="right">
 </p>
 

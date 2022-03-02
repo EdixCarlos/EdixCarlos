@@ -107,4 +107,5 @@ Don't be a programmer, Be a problem solver.
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EdixCarlos&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Edix Carlos" /></p>
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/EdixCarlos"><img src="https://github-profile-trophy.vercel.app/?username=EdixCarlos&margin-w=5&theme=radical" alt="Edix Carlos" /></a> </p>
-[CV EDIX DANTE CARLOS PANOCCA 03.pdf](https://github.com/EdixCarlos/EdixCarlos/files/8172722/CV.EDIX.DANTE.CARLOS.PANOCCA.03.pdf)
+
+[CV EDIX DANTE CARLOS PANOCCA 03.pdf](https://github.com/EdixCarlos/EdixCarlos/files/8172729/CV.EDIX.DANTE.CARLOS.PANOCCA.03.pdf)

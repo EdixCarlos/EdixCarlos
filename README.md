@@ -82,9 +82,7 @@
 
 ### 🎧 Spotify Playing
 
-<!-- ![spotify-github-profile](/img/default.svg) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t735f7uilbesy96nubhhsz3sp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12140466886&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 Don't be a programmer, Be a problem solver.
